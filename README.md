@@ -1,7 +1,7 @@
 # Predicting the Rating of a Book Based on the User’s Age, Region, and Rating of Past Books Using Collaborative Filtering and K Nearest Neighbors
 
 ## SUMMARY OF THE PROJECT
-In this project, our objective is to create a recommendation system model that is able to predict what books user prefer, based on historical data. This model utilize user-based collaborative filtering methods, with the aim to recommend books by using patterns of user ratings. The effectiveness of this model hinges on the quality and comprehensiveness of the underlying datasets.
+In this project, our objective is to create a recommendation system model that is able to predict what books user prefer, based on historical data. This model utilize user-based collaborative filtering methods, with the aim to recommend books by using patterns of user ratings. The effectiveness of this model hinges on the quality and comprehensiveness of the underlying datasets. This project has been developed as an assignment for COMP20008 - University of Melbourne.
 
 ---
 
@@ -90,6 +90,11 @@ This Jupyter Notebook captures the full research process from beginning to end. 
 - Prepares the data.
 - Applies the user-based collaborative filtering algorithm.
 - Closes with an assessment of the model's performance, including conclusions and insights.
+
+### report.pdf
+This document is the summary and analysis of everything in this repository. This report includes every thinking behind every decisions made in this project.
+There is also a complete documentation on the dataset, preprocessing technique, machine learning model developed, and the effectiveness of the model.
+
 
 ---
 
